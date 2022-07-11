@@ -65,5 +65,5 @@ In this step, I built a flask API endpoint thats hosted on Heroku. I did the fol
 * Created 3 Get endpoints for each coin with its own model which takes in a query (60 subsequent historical prices and the number of days in the future to predict) from the client.
 * The endpoints return the predicted prices as a list (array).
 
-**Live Implemantation:** [CryptoMania]([react-cryptomania.herokuapp.com](https://react-cryptomania.herokuapp.com/))
+**Live Implemantation:** [CryptoMania]([react-cryptomania.herokuapp.com](https://react-cryptomania.herokuapp.com)
 
